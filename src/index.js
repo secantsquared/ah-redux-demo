@@ -6,7 +6,7 @@
  
 import React from 'react'
 import ReactDOM from 'react-dom'
-import App from './components/presentational/App'
+import App from './components/presentational/App.jsx'
 import _initialState from './initialState.json'
 import { Provider } from 'react-redux'
 // import { createStore } from 'redux'
